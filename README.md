@@ -1,4 +1,4 @@
-# *Voice Chatbot UAS – STT, Gemini LLM, TTS Integration*
+# **Voice Chatbot UAS – STT, Gemini LLM, TTS Integration**
 
 Proyek UAS ini merupakan aplikasi chatbot berbasis suara yang memungkinkan pengguna berbicara langsung melalui antarmuka web. Sistem akan mengenali suara pengguna, mengubahnya menjadi teks (Speech-to-Text), memprosesnya menggunakan model bahasa besar (Gemini API), lalu mengubah hasil jawabannya kembali menjadi suara (Text-to-Speech).
 
@@ -6,16 +6,16 @@ Proyek UAS ini merupakan aplikasi chatbot berbasis suara yang memungkinkan pengg
 
 ## 📌 Fitur Utama
 
-* 🗣 *Speech-to-Text (STT)* menggunakan whisper.cpp dari OpenAI.
-* 🧠 *LLM Integration* menggunakan Google Gemini API untuk menghasilkan respons dalam Bahasa Indonesia.
-* 🔊 *Text-to-Speech (TTS)* menggunakan model *Coqui TTS* (Indonesian TTS).
-* 🧃 *Antarmuka pengguna* interaktif berbasis Gradio untuk pengujian langsung dari browser.
+* 🗣️ **Speech-to-Text (STT)** menggunakan `whisper.cpp` dari OpenAI.
+* 🧠 **LLM Integration** menggunakan Google Gemini API untuk menghasilkan respons dalam Bahasa Indonesia.
+* 🔊 **Text-to-Speech (TTS)** menggunakan model **Coqui TTS** (Indonesian TTS).
+* 🧃 **Antarmuka pengguna** interaktif berbasis `Gradio` untuk pengujian langsung dari browser.
 
 ---
 
 ## 📁 Struktur Proyek
 
-plaintext
+```plaintext
 voice_chatbot_project/
 │
 ├── app/
@@ -31,24 +31,24 @@ voice_chatbot_project/
 │
 ├── .env                    # Menyimpan Gemini API Key
 └── requirements.txt        # Daftar dependensi Python
-
+```
 
 ---
 
 ## 📘 Catatan
 
-* Semua file audio menggunakan format .wav.
-* Untuk menghasilkan fonem seperti da atau ngan, teks dari Gemini harus dikonversi ke fonetik.
-* Disarankan menggunakan model Whisper: ggml-large-v3-turbo.
-* Gunakan speaker: wibowo dari model Coqui v1.2.
+* Semua file audio menggunakan format `.wav`.
+* Untuk menghasilkan fonem seperti *da* atau *ngan*, teks dari Gemini harus dikonversi ke fonetik.
+* Disarankan menggunakan model Whisper: `ggml-large-v3-turbo`.
+* Gunakan speaker: `wibowo` dari model Coqui v1.2.
 
 ---
 
-## 🙋‍♀ Dibuat Untuk
+## 🙋‍♀️ Dibuat Untuk
 
-Proyek UAS mata kuliah Pemrosesan Bahasa Alami — Semester Genap 2024/2025.
-*NIM:* 2208107010039 – *Qandila Ahmara*
+Proyek UAS mata kuliah *Pemrosesan Bahasa Alami* — Semester Genap 2024/2025.
+**NIM:** 2208107010039 – **Qandila Ahmara**
 
 ---
 
-Silakan salin teks ini langsung ke file README.md di repositori GitHub Anda, dan tampilannya akan rapi serta mudah dibaca. Jika ingin ditambahkan badge, preview, atau GIF demo, saya bisa bantu juga.
+Silakan salin teks ini langsung ke file `README.md` di repositori GitHub Anda, dan tampilannya akan rapi serta mudah dibaca. Jika ingin ditambahkan badge, preview, atau GIF demo, saya bisa bantu juga.
