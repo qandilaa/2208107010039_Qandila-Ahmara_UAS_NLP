@@ -48,7 +48,3 @@ voice_chatbot_project/
 
 Proyek UAS mata kuliah *Pemrosesan Bahasa Alami* — Semester Genap 2024/2025.
 **NIM:** 2208107010039 – **Qandila Ahmara**
-
----
-
-Silakan salin teks ini langsung ke file `README.md` di repositori GitHub Anda, dan tampilannya akan rapi serta mudah dibaca. Jika ingin ditambahkan badge, preview, atau GIF demo, saya bisa bantu juga.
