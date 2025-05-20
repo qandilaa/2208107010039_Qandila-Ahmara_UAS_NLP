@@ -44,7 +44,7 @@ voice_chatbot_project/
 
 ---
 
-## 🙋‍♀️ Dibuat Untuk
+## 🙋‍♀️ Dibuat Untuk Proyek UAS mata kuliah *Pemrosesan Bahasa Alami*
 
-Proyek UAS mata kuliah *Pemrosesan Bahasa Alami* — Semester Genap 2024/2025.
+— Semester Genap 2024/2025.
 * **NIM:** 2208107010039 – **Qandila Ahmara**
